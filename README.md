@@ -1,3 +1,3 @@
 # EmpWageComputation
-Add Part time
+Adding Part time
 Employee & Wage
