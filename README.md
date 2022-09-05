@@ -1,3 +1,2 @@
 # EmpWageComputation
-#Check Employee is
-#Present or Absent
+Check Employee is Present or Absent
